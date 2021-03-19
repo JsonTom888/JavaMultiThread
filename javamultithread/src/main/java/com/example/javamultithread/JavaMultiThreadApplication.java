@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class JavamultithreadApplication {
+public class JavaMultiThreadApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(JavamultithreadApplication.class, args);
+        SpringApplication.run(JavaMultiThreadApplication.class, args);
     }
 
 }
